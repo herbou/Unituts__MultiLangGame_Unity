@@ -1,0 +1,9 @@
+SCENE1=Scene1
+SCENE2=Scene2
+HELLO=Hello
+TEXT1=This is an amazing tutorial, subscribe for more good tuts.
+BACK=Back to scene1
+GOTO=Go to scene2
+MUSIC=Music
+SOUNDS=Sounds
+SETTINGS=Settings
