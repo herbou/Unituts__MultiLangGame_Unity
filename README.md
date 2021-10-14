@@ -7,17 +7,15 @@ how to make your Unity game Multi-Languages without coding
 
  >> Youtube video tutorial [Multi Launguages Unity Game Without Coding](https://youtu.be/yvpPUTkQFM8) .
 
-
+ <br>
 # How to add variables to your text
 
 
-1- Add placeholders for variables 
-
+1- Add placeholders for variables  <br>
 [ en.txt ] : <br>
-```GREETING=Hello Mr {0}, your score is: {1}```
-
+```GREETING=Hello Mr {0}, your score is: {1}``` <br>
 [ fr.txt ] : <br>
-```GREETING=Bonjour monsieur {0}, votre score est:  {1}```
+```GREETING=Bonjour monsieur {0}, votre score est:  {1}``` <br>
 
 
 
@@ -41,9 +39,6 @@ public class Test : MonoBehavior {
 }
 ```
 the result is: <br>
-
 ```Hello Mr John, your score is: 134``` <br>
-
 or (in case of FR lang) : <br>
-
 ```Bonjour monsieur John, votre score est:  134```
