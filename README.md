@@ -1,4 +1,4 @@
-# Unituts__MultiLangGame_Unity
+# MultiLangGame_Unity
 how to make your Unity game Multi-Languages without coding
 
 
@@ -42,3 +42,9 @@ the result is: <br>
 ```Hello Mr John, your score is: 134``` <br>
 or (in case of FR lang) : <br>
 ```Bonjour monsieur John, votre score est:  134```
+
+
+<br><br>
+<br>
+## ❤️ Donate  
+<a href="https://paypal.me/hamzaherbou" title="https://paypal.me/hamzaherbou" target="_blank"><img align="left" height="50" src="https://www.mediafire.com/convkey/72dc/iz78ys7vtfsl957zg.jpg" alt="Paypal"></a>
